@@ -33,7 +33,7 @@ main {
 .card-back {
   background: var(--darkdeblue);
   width: 98%;
-  height: 40rem;
+  height: 42rem;
   display: flex;
   flex-direction: column;
   border-radius: 10px;
